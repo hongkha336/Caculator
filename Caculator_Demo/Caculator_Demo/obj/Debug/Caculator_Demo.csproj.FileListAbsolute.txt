@@ -1,0 +1,19 @@
+C:\Users\Xiaok\source\repos\Caculator_Demo\Caculator_Demo\bin\Debug\Caculator_Demo.exe.config
+C:\Users\Xiaok\source\repos\Caculator_Demo\Caculator_Demo\bin\Debug\Caculator_Demo.exe
+C:\Users\Xiaok\source\repos\Caculator_Demo\Caculator_Demo\bin\Debug\Caculator_Demo.pdb
+C:\Users\Xiaok\source\repos\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.csprojResolveAssemblyReference.cache
+C:\Users\Xiaok\source\repos\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.Form1.resources
+C:\Users\Xiaok\source\repos\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.Properties.Resources.resources
+C:\Users\Xiaok\source\repos\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.csproj.GenerateResource.cache
+C:\Users\Xiaok\source\repos\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Xiaok\source\repos\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.exe
+C:\Users\Xiaok\source\repos\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.pdb
+D:\2018_HK2\2018_TU HOC WINFORM\Caculator_Demo\Caculator_Demo\bin\Debug\Caculator_Demo.exe.config
+D:\2018_HK2\2018_TU HOC WINFORM\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.exe
+D:\2018_HK2\2018_TU HOC WINFORM\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.pdb
+D:\2018_HK2\2018_TU HOC WINFORM\Caculator_Demo\Caculator_Demo\bin\Debug\Caculator_Demo.exe
+D:\2018_HK2\2018_TU HOC WINFORM\Caculator_Demo\Caculator_Demo\bin\Debug\Caculator_Demo.pdb
+D:\2018_HK2\2018_TU HOC WINFORM\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.csprojResolveAssemblyReference.cache
+D:\2018_HK2\2018_TU HOC WINFORM\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.Form1.resources
+D:\2018_HK2\2018_TU HOC WINFORM\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.Properties.Resources.resources
+D:\2018_HK2\2018_TU HOC WINFORM\Caculator_Demo\Caculator_Demo\obj\Debug\Caculator_Demo.csproj.GenerateResource.Cache
